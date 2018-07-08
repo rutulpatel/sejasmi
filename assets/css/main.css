@@ -3206,7 +3206,7 @@
 /* Main */
 
 	#main {
-		padding: 4em 0;
+		padding: 5em 0;
 	}
 
 		#main > header {
@@ -3229,7 +3229,7 @@
 			}
 
 	body.landing #main {
-		margin-top: -14em;
+		margin-top: -22em;
 	}
 
 /* Footer */
@@ -3727,7 +3727,7 @@
 		/* Main */
 
 			#main {
-				padding: 4em 0 0 0;
+				padding: 5em 0 0 0;
 			}
 
 				#main > header {
