@@ -30,6 +30,9 @@
 		vertical-align: baseline;
 	}
 
+	/* #products {
+		margin: -2em 0em -2em -2em;
+	} */
 	article, aside, details, figcaption, figure,
 	footer, header, hgroup, menu, nav, section {
 		display: block;
@@ -2249,7 +2252,7 @@
 		border-radius: 6px;
 		box-shadow: 0 2px 0 0 #e5e5e5;
 		margin: 0 0 2em 0;
-		padding: 3em;
+		padding: 2em;
 	}
 
 		.box > :last-child {
@@ -3152,7 +3155,7 @@
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
 		color: #fff;
-		padding: 12em 0 20em 0;
+		padding: 8em 0 16em 0;
 		text-align: center;
 	}
 
@@ -3234,7 +3237,7 @@
 			}
 
 	body.landing #main {
-		margin-top: -22em;
+		margin-top: -21em;
 	}
 
 /* Footer */
